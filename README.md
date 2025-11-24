@@ -2,12 +2,12 @@
 <h3 align="center">Java Backend Developer • API Designer • System Design Learner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
+  <img src="https://media4.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 </p>
 
 ## 🚀 About Me
 
-I'm **Anjan Kumar Sahoo**, a backend-focused developer who enjoys building scalable REST APIs, designing clean architectures, and writing Java systems that are simple, reliable, and maintainable.
+I'm **Anjan Kumar Sahoo**, a backend-focused developer who enjoys building scalable REST APIs, designing clean architecture, and writing Java systems that are simple, reliable, and maintainable.
 
 - 🎓 B.Tech CSE @ LPU  
 - 💻 Strong in **Java, Spring Boot, SQL/MySQL, REST APIs, Django**  
@@ -23,40 +23,40 @@ I'm **Anjan Kumar Sahoo**, a backend-focused developer who enjoys building scala
 
 ### 💻 Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png" width="45"/>
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" width="45"/>
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" width="45"/>
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" width="45"/>
 </p>
 
 ### ⚙ Backend Development
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
 </p>
 
 ### 🗄 Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="45"/>
 </p>
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="45"/>
 </p>
 
 ### 🎨 UI & Others
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="45"/>
   <img src="https://img.icons8.com/color/512/adobe-lightroom.png" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" width="45"/>
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="45"/>
 </p>
 
 ---
@@ -65,44 +65,39 @@ I'm **Anjan Kumar Sahoo**, a backend-focused developer who enjoys building scala
 
 ### **Inventory Management System**
 **Tech:** Spring Boot, React, MySQL  
-- Built full-stack inventory system for products, suppliers & sales  
-- Optimized backend improving request handling by **30%**  
-- Stable datastore, auto stock updates, React UI  
+- Full-stack inventory management  
+- Auto stock update system  
+- Improved backend efficiency by **30%**  
 📎 Repo: *github.com/Anjan-Kumar-Sahoo/Inventory-Management*
 
 ---
 
 ### **Carbon Footprint Tracker**
-**Tech:** Django, Python, SQLite/PostgreSQL, Scikit-learn  
-- CO₂ prediction using ML  
-- Authentication + analytics dashboard  
+**Tech:** Django, Python, ML, SQLite/PostgreSQL  
+- Calculates and predicts CO₂ emissions  
+- User authentication + dashboard  
 📎 Repo: *github.com/Anjan-Kumar-Sahoo/Carbon-Footprint-Tracker*
 
 ---
 
 ### **Basic Finance Management**
 **Tech:** Core Java, OOPs, File Handling  
-- Console-based personal finance manager  
+- Console-based expense & income manager  
 📎 Repo: *github.com/Anjan-Kumar-Sahoo/Basic-Finance-Management*
 
 ---
 
 ### **Social Book**
 **Tech:** HTML + CSS  
-- Facebook UI replica  
+- Clean Facebook UI replica  
 📎 Repo: *github.com/Anjan-Kumar-Sahoo/socialbook*
 
 ---
 
 ## 🏆 Achievements
 - Solved **250+ Java DSA problems**  
-- Won multiple events: debate, storytelling, GD, impromptu  
-- Completed industry training in:  
-  - Python Full Stack  
-  - Java Backend  
-  - DSA  
-  - Logic building  
-:contentReference[oaicite:0]{index=0}
+- Won events in debate, storytelling, GD, extempore  
+- Completed training in: Python Full Stack, Java Backend, DSA, Logic Building  
 
 ---
 
@@ -110,13 +105,12 @@ I'm **Anjan Kumar Sahoo**, a backend-focused developer who enjoys building scala
 - **B.Tech CSE — Lovely Professional University (CGPA: 7.4)**  
 - ISC — **72%**  
 - ICSE — **82%**  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anjan-Kumar-Sahoo&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Anjan-Kumar-Sahoo&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjan-Kumar-Sahoo&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
