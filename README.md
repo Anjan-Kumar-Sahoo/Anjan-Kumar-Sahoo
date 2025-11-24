@@ -5,28 +5,21 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 </p>
 
----
-
-<!-- Animated Wave -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" height="80px">
-
----
-
 ## 🚀 About Me
 
-I'm **Anjan Kumar Sahoo**, a passionate backend developer who enjoys building reliable systems, designing clean APIs, and writing code that makes sense — not just works.
+I'm **Anjan Kumar Sahoo**, a backend-focused developer who enjoys building scalable REST APIs, designing clean architectures, and writing Java systems that are simple, reliable, and maintainable.
 
-- 🎓 **B.Tech CSE @ LPU**
-- 💻 Strong in **Java, Spring Boot, REST APIs, SQL/MySQL, System Design basics**
-- ⚡ Solved **250+ Java DSA problems**
-- 🧠 Believe in clean code, good architecture & debugging before panic 😄  
-- 🌱 Learning **Microservices, SQL Optimization, and Distributed Systems**
-- ⚙ Backend + a little Frontend + Full-stack workflow understanding
+- 🎓 B.Tech CSE @ LPU  
+- 💻 Strong in **Java, Spring Boot, SQL/MySQL, REST APIs, Django**  
+- ⚡ Solved **250+ Java DSA problems**  
+- 🤝 Comfortable with backend → frontend integration  
+- 🌱 Currently learning **Microservices, SQL indexing, caching & system design fundamentals**  
+- 💬 Ask me about **Java, Spring Boot, MySQL, APIs, debugging, backend patterns**  
 - 📬 **Email:** askmraks@gmail.com  
 
 ---
 
-## 🛠 My Tech Arsenal
+## 🛠 Tech Stack
 
 ### 💻 Languages
 <p>
@@ -39,7 +32,7 @@ I'm **Anjan Kumar Sahoo**, a passionate backend developer who enjoys building re
 ### ⚙ Backend Development
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
 </p>
 
@@ -51,7 +44,7 @@ I'm **Anjan Kumar Sahoo**, a passionate backend developer who enjoys building re
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
 </p>
 
-### 🌐 Tools & Platforms
+### 🧰 Tools & Platforms
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
@@ -59,7 +52,7 @@ I'm **Anjan Kumar Sahoo**, a passionate backend developer who enjoys building re
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
 </p>
 
-### 🎨 Design & Extras
+### 🎨 UI & Others
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45"/>
   <img src="https://img.icons8.com/color/512/adobe-lightroom.png" width="45"/>
@@ -68,84 +61,68 @@ I'm **Anjan Kumar Sahoo**, a passionate backend developer who enjoys building re
 
 ---
 
-<!-- Wavy Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" height="70px">
-
 ## 📌 Featured Projects
 
-### ⚙️ **Inventory Management System**
-> *Spring Boot + React + MySQL*  
-- Real-time product, supplier & sales management  
-- Optimized backend → **30% performance boost**  
-- Auto stock updates + cyclic dependency fixes  
-📎 Repo: `github.com/Anjan-Kumar-Sahoo/Inventory-Management`
+### **Inventory Management System**
+**Tech:** Spring Boot, React, MySQL  
+- Built full-stack inventory system for products, suppliers & sales  
+- Optimized backend improving request handling by **30%**  
+- Stable datastore, auto stock updates, React UI  
+📎 Repo: *github.com/Anjan-Kumar-Sahoo/Inventory-Management*
 
 ---
 
-### 🌍 **Carbon Footprint Tracker**
-> *Django + ML + Bootstrap*  
-- Calculates & predicts commute-based carbon emissions  
-- Authentication + dashboard + ML based CO₂ forecasting  
-📎 Repo: `github.com/Anjan-Kumar-Sahoo/Carbon-Footprint-Tracker`
+### **Carbon Footprint Tracker**
+**Tech:** Django, Python, SQLite/PostgreSQL, Scikit-learn  
+- CO₂ prediction using ML  
+- Authentication + analytics dashboard  
+📎 Repo: *github.com/Anjan-Kumar-Sahoo/Carbon-Footprint-Tracker*
 
 ---
 
-### 💰 **Basic Finance Management**
-> *Core Java + OOP + File Handling*  
-- Console-based expense, income & savings manager  
-📎 Repo: `github.com/Anjan-Kumar-Sahoo/Basic-Finance-Management`
+### **Basic Finance Management**
+**Tech:** Core Java, OOPs, File Handling  
+- Console-based personal finance manager  
+📎 Repo: *github.com/Anjan-Kumar-Sahoo/Basic-Finance-Management*
 
 ---
 
-### 🌐 **Social Book**
-> *HTML + CSS*  
-- Clean Facebook UI replica  
-📎 Repo: `github.com/Anjan-Kumar-Sahoo/socialbook`
+### **Social Book**
+**Tech:** HTML + CSS  
+- Facebook UI replica  
+📎 Repo: *github.com/Anjan-Kumar-Sahoo/socialbook*
 
 ---
-
-<!-- Animated line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
 ## 🏆 Achievements
 - Solved **250+ Java DSA problems**  
-- Won multiple events: debate, storytelling, GD, extempore  
-- Completed trainings: Python Full Stack, Java Backend, DSA  
-📝 Verified in resume → (Uploaded)  
+- Won multiple events: debate, storytelling, GD, impromptu  
+- Completed industry training in:  
+  - Python Full Stack  
+  - Java Backend  
+  - DSA  
+  - Logic building  
 :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 🎓 Education  
-- **B.Tech — Lovely Professional University (CGPA: 7.4)**  
+## 🎓 Education
+- **B.Tech CSE — Lovely Professional University (CGPA: 7.4)**  
 - ISC — **72%**  
 - ICSE — **82%**  
 :contentReference[oaicite:1]{index=1}
 
 ---
 
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" height="70px">
-
-## 📈 GitHub Stats (Dynamic)
-
+## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anjan-Kumar-Sahoo&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjan-Kumar-Sahoo&layout=compact&theme=radical" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjan-Kumar-Sahoo&theme=react-dark&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anjan-Kumar-Sahoo&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjan-Kumar-Sahoo&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🧠 Quote of the Day  
-> *“Good code is like humor — if you have to explain it, it's bad.”*
-
----
-
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 <p align="center">
   <a href="mailto:askmraks@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/aks1097"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -156,10 +133,4 @@ I'm **Anjan Kumar Sahoo**, a passionate backend developer who enjoys building re
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anjan-Kumar-Sahoo&color=blue&style=flat-square&label=Profile+Visits"/>
-</p>
-
----
-
-⭐ *Thanks for visiting! If you liked my work, feel free to star ⭐ my repositories!*
+⭐ *Thanks for visiting — feel free to explore my repositories!*
